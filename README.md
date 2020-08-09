@@ -2,6 +2,12 @@
 
 7 Minutes With The Lord
 
+## Build Status
+
+| Github Action |
+|:-------------:|
+| ![Flutter CI](https://github.com/bervProject/7MinutesWithTheLordFlutter/workflows/Flutter%20CI/badge.svg) |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
